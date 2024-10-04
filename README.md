@@ -1,26 +1,27 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGAVuVsjAv34Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1689779636524?e=1733356800&v=beta&t=bgCf9Kn-9DhFjgUtPJWLNc5_nnedbsjH-A77BGVxbps"
         alt="" width="100%" height="100%">
-    <h1 align="center">Hi 👋, I'm Aditya Khote</h1>
-    <h3 align="center"> MERN stack Developer | Blockchain Developer </h3>
+<h1 align="center">Hi 👋, I'm Aditya Khote</h1>
+<h3 align="center"> MERN stack Developer | Blockchain Developer </h3>
+
 <p align="left">
         <img src="https://komarev.com/ghpvc/?username=adi1140&label=Profile%20views&color=0e75b6&style=flat"
             alt="adi1140" />
     </p>
     <p align="left"> <a href="https://twitter.com/@adityak_140" target="blank"><img src="https://img.shields.io/twitter/follow/@adityak_140?logo=twitter&style=for-the-badge" alt="@adityak_140" /></a> </p>
 
- - 🔭 I’m currently working on [Charcha.us](https://charcha.us)
+- 🔭 I’m currently working on [Charcha.us](https://charcha.us)
 
- - 🌱 I’m currently learning **Blockchain, React Native**
+- 🌱 I’m currently learning **Blockchain, React Native**
 
- - 🌐 Check out my Portfolio :-  [https://aditya-khote-portfolio.vercel.app](https://aditya-khote-portfolio.vercel.app)
+- 🌐 Check out my Portfolio :- [https://aditya-khote-portfolio.vercel.app](https://aditya-khote-portfolio.vercel.app)
 
- - 👨‍💻 All of my projects are available at [https://github.com/aditya-khote-140.git](https://github.com/aditya-khote-140?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/aditya-khote-140.git](https://github.com/aditya-khote-140?tab=repositories)
 
- - 💬 Ask me about **MERN stack, Blockchain, Native Apps**
+- 💬 Ask me about **MERN stack, Blockchain, Native Apps**
 
- - 📫 How to reach me **Adityakumar29275@gmail.com**
+- 📫 How to reach me **Adityakumar29275@gmail.com**
 
- - 📄 Know about my experiences  https://drive.google.com/file/d/1vFY1MIOOfDad8hMXlqFePxOy4MpnczuF/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1vFY1MIOOfDad8hMXlqFePxOy4MpnczuF/view?usp=sharing
 
    <h3 align="left">Connect with me:</h3>
     <p align="left">
@@ -199,5 +200,4 @@ Applications" width="40" height="40" />
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-khote-140&"
             alt="aditya-khote-140" />
     </p>
-    ### GitHub Snake Animation 🐍
-![GitHub Snake](https://raw.githubusercontent.com/aditya-khote-140/aditya-khote-140/output/github-snake.svg)
+    ![GitHub Snake](https://raw.githubusercontent.com/aditya-khote-140/aditya-khote-140/output/github-snake.svg)
