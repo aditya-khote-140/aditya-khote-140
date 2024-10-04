@@ -199,4 +199,5 @@ Applications" width="40" height="40" />
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-khote-140&"
             alt="aditya-khote-140" />
     </p>
-    <img src="https://raw.githubusercontent.com/aditya-khote-140/aditya-khote-140/output/github-contribution-grid-snake.svg" />
+    ### GitHub Snake Animation 🐍
+![GitHub Snake](https://raw.githubusercontent.com/aditya-khote-140/aditya-khote-140/output/github-snake.svg)
