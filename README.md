@@ -2,6 +2,12 @@
         alt="" width="100%" height="100%">
     <h1 align="center">Hi 👋, I'm Aditya Khote</h1>
     <h3 align="center"> A passionate MERN stack Developer | Blockchain Developer </h3>
+<svg viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24">
+    A passionate MERN Stack Developer |
+    <animate attributeName="textLength" from="0" to="100%" dur="4s" repeatCount="indefinite" />
+  </text>
+</svg>
      
 <p align="left">
         <img src="https://komarev.com/ghpvc/?username=adi1140&label=Profile%20views&color=0e75b6&style=flat"
