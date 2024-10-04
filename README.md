@@ -199,10 +199,4 @@ Applications" width="40" height="40" />
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-khote-140&"
             alt="aditya-khote-140" />
     </p>
-    uses: Platane/snk@v3
-  with:
-    github_user_name: "aditya-khote-140"
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+    [GitHub Snake](https://raw.githubusercontent.com/aditya-khote-140/aditya-khote-140/output/github-contribution-grid-snake.svg)
