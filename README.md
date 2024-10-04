@@ -3,9 +3,9 @@
     <h1 align="center">Hi 👋, I'm Aditya Khote</h1>
     <h3 align="center"> A passionate MERN stack Developer | Blockchain Developer </h3>
      
-    <p align="left">
+<p align="left">
         <img src="https://komarev.com/ghpvc/?username=adi1140&label=Profile%20views&color=0e75b6&style=flat"
-            alt="" />
+            alt="adi1140" />
     </p>
     <p align="left">
         <a href="https://twitter.com/@adityak_140" target="blank"><img
@@ -193,8 +193,4 @@ Applications" width="40" height="40" />
     <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-khote-140&"
             alt="aditya-khote-140" />
-    </p>
-    
-    <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+            </p>
