@@ -185,6 +185,9 @@ Applications" width="40" height="40" />
             height="40" />
     </a>
     </p>
+
+    <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
     <p>
         <img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-khote-140&show_icons=true&locale=en&layout=compact"
@@ -197,4 +200,8 @@ Applications" width="40" height="40" />
     <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-khote-140&"
             alt="aditya-khote-140" />
-            </p>
+    </p>
+    
+    <br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
