@@ -201,7 +201,7 @@ Applications" width="40" height="40" />
     </p>
     uses: Platane/snk@v3
   with:
-    github_user_name: ${{aditya-khote-140}}
+    github_user_name: "aditya-khote-140"
     outputs: |
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
