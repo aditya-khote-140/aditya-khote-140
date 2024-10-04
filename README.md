@@ -11,13 +11,15 @@
         <a href="https://twitter.com/@adityak_140" target="blank"><img
                 src="https://img.shields.io/twitter/follow/@adityak_140?logo=twitter&style=for-the-badge"
                 alt="@adityak_140" /></a>
-    </p> - 🔭 I’m currently working on [Charcha.us](https://charcha.us) - 🌱 I’m currently learning **Blockchain, React
-    Native** - 🌐 Check out my Portfolio :-
-    [https://aditya-khote-portfolio.vercel.app](https://aditya-khote-portfolio.vercel.app) - 👨‍💻 All of my projects
-    are available at [https://github.com/aditya-khote-140.git](https://github.com/aditya-khote-140?tab=repositories) -
-    💬 Ask me about **MERN stack, Blockchain, Native Apps** - 📫 How to reach me **Adityakumar29275@gmail.com** - 📄
-    Know about my experiences https://drive.google.com/file/d/1vFY1MIOOfDad8hMXlqFePxOy4MpnczuF/view?usp=sharing <h3
-        align="left">Connect with me:</h3>
+    </p> 
+            - 🔭 I’m currently working on [Charcha.us](https://charcha.us) 
+            - 🌱 I’m currently learning **Blockchain, ReactNative** 
+            - 🌐 Check out my Portfolio :-[https://aditya-khote-portfolio.vercel.app](https://aditya-khote-portfolio.vercel.app) 
+            - 👨‍💻 All of my projects are available at [https://github.com/aditya-khote-140.git](https://github.com/aditya-khote-140?tab=repositories) 
+            - 💬 Ask me about **MERN stack, Blockchain, Native Apps** 
+            - 📫 How to reach me **Adityakumar29275@gmail.com** 
+            - 📄 Know about my experiences https://drive.google.com/file/d/1vFY1MIOOfDad8hMXlqFePxOy4MpnczuF/view?usp=sharing 
+            <h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://twitter.com/@adityak_140" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -153,7 +155,6 @@ Applications" width="40" height="40" />
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
-    <br>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" />
