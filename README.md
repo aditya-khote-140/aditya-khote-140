@@ -196,8 +196,3 @@ Applications" width="40" height="40" />
             src="https://github-readme-stats.vercel.app/api?username=aditya-khote-140&show_icons=true&locale=en"
             alt="aditya-khote-140" />
     </p>
-    <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-khote-140&"
-            alt="aditya-khote-140" />
-    </p>
-    ![GitHub Snake](https://raw.githubusercontent.com/aditya-khote-140/aditya-khote-140/output/github-snake.svg)
