@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Blockchain, React Native**
 
-- 🌐 Check out my Portfolio :- [https://aditya-khote-portfolio.vercel.app](https://aditya-khote-portfolio.vercel.app)
+- 🌐 Check out my Portfolio :- [https://aditya-khote-portfolio.vercel.app](https://adityakhote.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/aditya-khote-140.git](https://github.com/aditya-khote-140?tab=repositories)
 
